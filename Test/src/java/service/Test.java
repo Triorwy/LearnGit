@@ -11,5 +11,6 @@ public class Test {
         System.out.println("ahhhhhhhhhhhh");
         System.out.println("every day ");
         System.out.println("tesssssssssssssss");
+        System.out.println("奇怪了");
     }
 }
